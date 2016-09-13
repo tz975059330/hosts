@@ -1,4 +1,4 @@
-[![doodle]][doodle-story]
+﻿[![doodle]][doodle-story]
 
 [doodle]: http://i.imgur.com/Vui3K9P.jpg "undefined"
 [doodle-story]: http://baike.baidu.com/link?url=Hoj02JsYhwUYVDaSaHSDazhfYjoqBmlzE_-K279sL3jQ3b7JQPVQi1wWX_s7tn5Vi0MuLX9oazEqpUbAGiIijiXHN1EmSXv-BMoh99MPD3a
@@ -25,6 +25,7 @@
   - 在系统设置内开关网络
   - 启用禁用飞行模式
   - 重启系统
+
 
 ### Windows
 用文本编辑器（如 [Notepad++](https://notepad-plus-plus.org/)）打开文件：
